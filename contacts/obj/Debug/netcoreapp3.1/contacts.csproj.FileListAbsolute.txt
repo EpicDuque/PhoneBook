@@ -1,0 +1,13 @@
+C:\Users\prduq\Documents\Rider Projects\contacts\contacts\bin\Debug\netcoreapp3.1\contacts.exe
+C:\Users\prduq\Documents\Rider Projects\contacts\contacts\bin\Debug\netcoreapp3.1\contacts.deps.json
+C:\Users\prduq\Documents\Rider Projects\contacts\contacts\bin\Debug\netcoreapp3.1\contacts.runtimeconfig.json
+C:\Users\prduq\Documents\Rider Projects\contacts\contacts\bin\Debug\netcoreapp3.1\contacts.runtimeconfig.dev.json
+C:\Users\prduq\Documents\Rider Projects\contacts\contacts\bin\Debug\netcoreapp3.1\contacts.dll
+C:\Users\prduq\Documents\Rider Projects\contacts\contacts\bin\Debug\netcoreapp3.1\contacts.pdb
+C:\Users\prduq\Documents\Rider Projects\contacts\contacts\obj\Debug\netcoreapp3.1\contacts.csprojAssemblyReference.cache
+C:\Users\prduq\Documents\Rider Projects\contacts\contacts\obj\Debug\netcoreapp3.1\contacts.AssemblyInfoInputs.cache
+C:\Users\prduq\Documents\Rider Projects\contacts\contacts\obj\Debug\netcoreapp3.1\contacts.AssemblyInfo.cs
+C:\Users\prduq\Documents\Rider Projects\contacts\contacts\obj\Debug\netcoreapp3.1\contacts.csproj.CoreCompileInputs.cache
+C:\Users\prduq\Documents\Rider Projects\contacts\contacts\obj\Debug\netcoreapp3.1\contacts.dll
+C:\Users\prduq\Documents\Rider Projects\contacts\contacts\obj\Debug\netcoreapp3.1\contacts.pdb
+C:\Users\prduq\Documents\Rider Projects\contacts\contacts\obj\Debug\netcoreapp3.1\contacts.genruntimeconfig.cache
